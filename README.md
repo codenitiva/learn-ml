@@ -1,8 +1,10 @@
-# learn-ml
+# Learn Machine Learning
 
-Repository for Learning Machine Learning (scratch coding and Framework)
+Repository for learning Machine Learning (from scratch coding and Framework).
 
 ## LICENSE
+```
+Learn Machine Learning
  Copyright 2020 Codenitiva
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,3 +18,4 @@ Repository for Learning Machine Learning (scratch coding and Framework)
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+```
